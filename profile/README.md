@@ -1,4 +1,4 @@
-# NARA Web
+# NARA Chain
 
 NARA is an agent-native Layer 1 blockchain forked from Solana. Agents authenticate, transact, and settle natively on-chain without human intervention.
 
