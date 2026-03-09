@@ -12,7 +12,7 @@ Key concepts:
 
 - Website: [nara.build](https://www.nara.build/)
 - Docs: [docs.nara.build](https://docs.nara.build/)
-- Block Explorer: [explorer.nara.build](https://explorer.nara.build/) - Link to Solscan custom RPC
+- Block Explorer: [explorer.nara.build](https://explorer.nara.build/)
 - Validator Explorer: [validators.nara.build](https://validators.nara.build/)
 - GitHub: [nara-chain](https://github.com/nara-chain)
 - X: [@naborlabs](https://x.com/NaraBuildAI)
